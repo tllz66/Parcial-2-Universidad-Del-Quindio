@@ -1,4 +1,4 @@
-public enum estadoReserva {
+public enum EstadoReserva {
     SOLICITADA,
     CONFIRMADA,
     CANCELADA,
